@@ -17,7 +17,7 @@ The analysis uses the following datasets:
 This repository contains the following files:
 
 1. **[Assignment.xlsx](./Assignment.xlsx)**: The raw dataset containing user, cooking session, and order details.
-2. **[Data_Analysis_upliance.ai.ipynb](./Data_Analysis_upliance.ai.ipynb)**: The Jupyter notebook with data cleaning, analysis, and visualizations based on the datasets.
+2. **[Data_Analysis_upliance_ai.ipynb](./Data_Analysis_upliance_ai.ipynb)**: The Jupyter notebook with data cleaning, analysis, and visualizations based on the datasets.
 3. **[requirements.txt](./requirements.txt)**: The file containing the list of required Python packages to run the project.
 4. **[Report.docx](./Report.docx)**: The Word document containing a detailed report summarizing the findings, insights, and business recommendations based on the analysis.
 
